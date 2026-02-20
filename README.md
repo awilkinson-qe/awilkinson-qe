@@ -2,7 +2,7 @@
 
 Senior Quality Engineering leader with 20+ years’ experience shaping quality strategy across complex, regulated Financial Services environments.
 
-Currently strengthening hands-on full-stack development foundations (HTML, CSS, JavaScript, Node.js, Git) to complement leadership, governance and automation expertise.
+Maintaining hands-on engineering depth across modern web technologies (HTML, CSS, JavaScript, Node.js, Git) alongside leadership and governance responsibilities.
 
 ---
 
@@ -37,7 +37,7 @@ Building practical projects to reinforce engineering depth alongside leadership 
 - Led QE practices across mobile, web and cloud-native services  
 - Embedded automation within CI/CD pipelines (Playwright, Cypress, API testing)  
 - Experience operating in regulated, high-control environments  
-- Advocate for quality as an engineering discipline, not a gate  
+- Advocate for quality as an embedded engineering capability, not a gate
 
 ---
 
