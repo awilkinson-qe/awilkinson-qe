@@ -1,16 +1,52 @@
-## Hi there 👋
+# Andrew Wilkinson
 
-<!--
-**awilkinson-qe/awilkinson-qe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Quality Engineering leader with 20+ years’ experience shaping quality strategy across complex, regulated Financial Services environments.
 
-Here are some ideas to get you started:
+Currently strengthening hands-on full-stack development foundations (HTML, CSS, JavaScript, Node.js, Git) to complement leadership, governance and automation expertise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Focus Areas
+
+- Quality Strategy & Governance  
+- Automation-First Engineering  
+- CI/CD & DevOps Integration  
+- API & Service-Level Testing  
+- Identity, Risk & Resilience  
+- Modern JavaScript Foundations  
+
+---
+
+## Current Development
+
+Structured full-stack web development training covering:
+
+- Version control with Git & GitHub  
+- Asynchronous JavaScript (Promises / Async-Await)  
+- DOM manipulation & Web APIs  
+- JSON, HTTP & client-server fundamentals  
+- Node.js fundamentals  
+- System architecture principles  
+
+Building practical projects to reinforce engineering depth alongside leadership experience.
+
+---
+
+## Background
+
+- Led QE practices across mobile, web and cloud-native services  
+- Embedded automation within CI/CD pipelines (Playwright, Cypress, API testing)  
+- Experience operating in regulated, high-control environments  
+- Advocate for quality as an engineering discipline, not a gate  
+
+---
+
+## Philosophy
+
+Quality is not a phase —  
+it is an engineering capability embedded throughout delivery.
+
+---
+
+📍 Nottingham, UK  
+🔗 [LinkedIn](https://www.linkedin.com/in/arwilkinson/)
