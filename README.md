@@ -1,50 +1,51 @@
 # Andrew Wilkinson
 
-Senior Quality Engineering leader with 20+ years’ experience shaping quality strategy across complex, regulated Financial Services environments.
+Senior Quality Engineering leader with 20+ years’ experience shaping engineering quality across complex, regulated Financial Services environments.
 
-Maintaining hands-on engineering depth across modern web technologies (HTML, CSS, JavaScript, Node.js, Git) alongside leadership and governance responsibilities.
+Maintaining hands-on engineering depth across modern web technologies (HTML, CSS, JavaScript, Node.js, Git) alongside strategic leadership and governance responsibility.
 
 ---
 
 ## Focus Areas
 
-- Quality Strategy & Governance  
-- Automation-First Engineering  
+- Quality Strategy & Engineering Governance  
+- Automation-First Delivery  
 - CI/CD & DevOps Integration  
 - API & Service-Level Testing  
-- Identity, Risk & Resilience  
-- Modern JavaScript Foundations  
+- Identity, Risk & Platform Resilience  
+- Modern JavaScript & Web Foundations  
 
 ---
 
-## Current Development
+## Current Engineering Development
 
-Structured full-stack web development training covering:
+Structured full-stack development training to reinforce contemporary engineering depth:
 
 - Version control with Git & GitHub  
 - Asynchronous JavaScript (Promises / Async-Await)  
 - DOM manipulation & Web APIs  
-- JSON, HTTP & client-server fundamentals  
-- Node.js fundamentals  
+- JSON, HTTP & client–server fundamentals  
+- Node.js foundations  
 - System architecture principles  
 
-Building practical projects to reinforce engineering depth alongside leadership experience.
+Building practical projects that demonstrate deterministic state management, API integration, and clear architectural separation.
 
 ---
 
 ## Background
 
-- Led QE practices across mobile, web and cloud-native services  
-- Embedded automation within CI/CD pipelines (Playwright, Cypress, API testing)  
-- Experience operating in regulated, high-control environments  
-- Advocate for quality as an embedded engineering capability, not a gate
+- Led QE practices across mobile, web, and cloud-native services  
+- Embedded automation within CI/CD pipelines (Local, Contract, Component, System)  
+- Operated within regulated, high-control environments  
+- Advocate for quality as an embedded engineering capability  
 
 ---
 
 ## Philosophy
 
-Quality is not a phase —  
-it is an engineering capability embedded throughout delivery.
+Automation modernisation through standardisation.
+
+Eliminating arbitrary uniqueness across teams and systems to create repeatable patterns, predictable quality, and scalable engineering practices.
 
 ---
 
